@@ -1,4 +1,4 @@
-# Employee pay calculator
+|"?:># Employee pay calculator
 
 ## Sample code
 This repository contains some template code in a file called `employee.py`.  It contains an initial definition of an `Employee` class.  It also creates 6 `Employee` objects.
